@@ -2,7 +2,7 @@
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning  newest technology
 - 💞️ I’m looking to collaborate on vel reputed company
-- 📫 How to reach me tummepallisivanagalakshman@gmil.com
+- 📫 How to reach me tummepallisivanagalakshman@gmail.com
 - 😄 Pronouns: he/him
 "⚡ Intriguing Fact for GitHub Profile:" 
 <!---
