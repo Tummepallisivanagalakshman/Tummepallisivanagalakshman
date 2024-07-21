@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Tummepallisivanagalakshman
+- 👋 Hi, I’m Tummepalli siva naga lakshman
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning  newest technology
-- 💞️ I’m looking to collaborate on vel reputed company
+- 🌱 I’m currently learning  new technology
+- 💞️ I’m looking to collaborate wel reputed company
 - 📫 How to reach me tummepallisivanagalakshman@gmail.com
 - 😄 Pronouns: he/him
 "⚡ Intriguing Fact for GitHub Profile:" 
