@@ -42,10 +42,11 @@ I'm an undergraduate student passionate about technology, particularly in the fi
 ### 🌐 Connect with me:
 <p align="left">
 <a href="https://twitter.com/lakshma50637730" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" width="30" height="30"/></a>
-<a href="https://linkedin.com/in/tummepallisivanagalakshman" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" width="30" height="30"/></a>
+<a href="https://www.linkedin.com/in/tummepalli-sivanagalakshman-a3100224b/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" width="30" height="30"/></a>
 <a href="https://fb.com/lakshmanlakshman" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" width="30" height="30"/></a>
 <a href="https://instagram.com/lakshman_588" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" width="30" height="30"/></a>
 </p>
+
 
 ---
 
