@@ -1,27 +1,36 @@
-# Hi there 👋, I'm Sivanagalakshman Tummepalli
+# Hi there 👋, I'm Sivanagalakshman Tummepalli  
 
-## 🚀 About Me
-I'm a passionate developer focused on continuous learning and growth. I enjoy working on challenging projects and contributing to the developer community.
+## 🚀 About Me  
+I'm a passionate developer and CSE student at Veltech University, always eager to learn and explore new technologies. I enjoy building projects that solve real-world problems and help me grow as a developer.  
 
-## 🔧 Technologies & Tools
-- Programming Languages: [Your preferred languages]
-- Frameworks: [Your frameworks]
-- Tools: Git, GitHub
-- Databases: [Your database experience]
+## 🔧 Technologies & Tools  
+- **Programming Languages:** Python, HTML, CSS  
+- **Frameworks & Libraries:** React, Tailwind CSS, Tkinter  
+- **Development Tools:** Git, GitHub, Google Colab, VS Code, Arduino  
+- **CMS:** WordPress  
 
-## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tummepallisivanagalakshman&show_icons=true&theme=radical)
+## 💼 Experience  
+- **Frontend Developer Intern @ ApanaGHR (June 2025 – Present)**  
+  - Developed a responsive smart home landing page using **Next.js, TypeScript, and Tailwind CSS**  
+  - Built reusable UI components and implemented animations with **Framer Motion** and **Lucide Icons**  
+  - Added features like **dark/light mode toggle** and a **custom welcome screen**  
+  - Worked with tools like **PostCSS** to optimize styles  
 
-## 🌱 I'm currently working on
-- Improving my coding skills
-- Contributing to open source projects
-- Building my personal portfolio
+## 📊 GitHub Stats  
+![Lakshman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tummepallisivanagalakshman&show_icons=true&theme=radical)  
 
-## 📫 How to reach me
-- GitHub: [@Tummepallisivanagalakshman](https://github.com/Tummepallisivanagalakshman)
+## 🌱 I'm currently working on  
+- Improving my coding skills  
+- Building projects with React, IoT, and Python  
+- Expanding my portfolio and contributing to open-source  
 
-## 🤝 Let's Connect
-I'm always interested in collaborating on interesting projects. Feel free to reach out!
+## 📫 How to reach me  
+- **Email:** tummepallisivanagalakshman@gmail.com  
+- **GitHub:** [@Tummepallisivanagalakshman](https://github.com/Tummepallisivanagalakshman)  
+- **LinkedIn:** [Tummepalli Sivanagalakshman](https://www.linkedin.com/in/tummepallisivanagalakshman-a3100224b/)  
+
+## 🤝 Let's Connect  
+I'm always open to collaborating on interesting projects and exchanging ideas. Feel free to reach out!  
 
 ---
-⭐️ Last updated: 2025-08-17
+⭐️ From [Tummepallisivanagalakshman](https://github.com/Tummepallisivanagalakshman)
