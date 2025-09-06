@@ -1,36 +1,55 @@
-# Hi there 👋, I'm Sivanagalakshman Tummepalli  
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&duration=3000&pause=1000&color=1973E5&center=true&vCenter=true&width=435&lines=Hi+👋+I'm+Sivanagalakshman;A+Passionate+Developer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+</div>
 
-## 🚀 About Me  
-I'm a passionate developer and CSE student at Veltech University, always eager to learn and explore new technologies. I enjoy building projects that solve real-world problems and help me grow as a developer.  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Tummepallisivanagalakshman&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-## 🔧 Technologies & Tools  
-- **Programming Languages:** Python, HTML, CSS  
-- **Frameworks & Libraries:** React, Tailwind CSS, Tkinter  
-- **Development Tools:** Git, GitHub, Google Colab, VS Code, Arduino  
-- **CMS:** WordPress  
+### 🚀 About Me
+- 🌱 I'm passionate about creating interactive web applications
+- 💻 Love building user-friendly interfaces
+- 🎯 Always learning and exploring new technologies
 
-## 💼 Experience  
-- **Frontend Developer Intern @ ApanaGHR (June 2025 – Present)**  
-  - Developed a responsive smart home landing page using **Next.js, TypeScript, and Tailwind CSS**  
-  - Built reusable UI components and implemented animations with **Framer Motion** and **Lucide Icons**  
-  - Added features like **dark/light mode toggle** and a **custom welcome screen**  
-  - Worked with tools like **PostCSS** to optimize styles  
+### 💻 Tech Stack
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+</p>
 
-## 📊 GitHub Stats  
-![Lakshman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tummepallisivanagalakshman&show_icons=true&theme=radical)  
+### 🎯 Featured Projects
+1. **[Rock Paper Game](https://github.com/Tummepallisivanagalakshman/rock-paper-game)**
+   - Interactive game implementation
+   - Built with JavaScript
 
-## 🌱 I'm currently working on  
-- Improving my coding skills  
-- Building projects with React, IoT, and Python  
-- Expanding my portfolio and contributing to open-source  
+2. **[Digital Clock](https://github.com/Tummepallisivanagalakshman/DIGITAL-CLOCK)**
+   - Real-time digital clock display
+   - Clean and modern UI
 
-## 📫 How to reach me  
-- **Email:** tummepallisivanagalakshman@gmail.com  
-- **GitHub:** [@Tummepallisivanagalakshman](https://github.com/Tummepallisivanagalakshman)  
-- **LinkedIn:** [Tummepalli Sivanagalakshman](https://www.linkedin.com/in/tummepallisivanagalakshman-a3100224b/)  
+3. **[Quiz App](https://github.com/Tummepallisivanagalakshman/Quize-app-)**
+   - Interactive quiz application
+   - User-friendly interface
 
-## 🤝 Let's Connect  
-I'm always open to collaborating on interesting projects and exchanging ideas. Feel free to reach out!  
+4. **[GHR Landing UI](https://github.com/Tummepallisivanagalakshman/Ghr-landing-UI)**
+   - Modern landing page design
+   - Responsive layout
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tummepallisivanagalakshman&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tummepallisivanagalakshman&theme=radical" alt="GitHub Streak" />
+</p>
+
+### 🌐 Let's Connect
+<p align="left">
+  <a href="https://github.com/Tummepallisivanagalakshman" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
 ---
 ⭐️ From [Tummepallisivanagalakshman](https://github.com/Tummepallisivanagalakshman)
