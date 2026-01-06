@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Dice Roll — Mini Game</title>
+  <style>
+    body{font-family:Inter,system-ui,Arial;display:flex;align-items:center;justify-content:center;height:100vh;margin:0;background:#071025;color:#eef2ff}
+    .card{background:linear-gradient(180deg,#071834,#071025);padding:28px;border-radius:12px;width:360px;text-align:center;box-shadow:0 12px 30px rgba(2,6,23,0.6)}
+    h1{margin:0 0 12px;font-size:20px}
+    .die{font-size:120px;width:150px;height:150px;border-radius:16px;display:flex;align-items:center;justify-content:center;margin:14px auto;background:rgba(255,255,255,0.02)}
+    .controls{display:flex;gap:10px;justify-content:center}
+    button{background:#1973E5;color:#fff;border:0;padding:10px 14px;border-radius:10px;cursor:pointer;font-weight:600}
+    @keyframes shake {0%{transform:rotate(0)}20%{transform:rotate(-10deg)}40%{transform:rotate(12deg)}60%{transform:rotate(-6deg)}80%{transform:rotate(6deg)}100%{transform:rotate(0)} }
+    .rolling{animation:shake 700ms ease-in-out}
+  </style>
+</head>
+<body>
+  <div class="card" role="application" aria-label="Dice roll mini game">
+    <h1>🎲 Dice Roll</h1>
+    <div id="die" class="die" aria-live="polite" aria-atomic="true">⚀</div>
+    <div class="controls">
+      <button id="rollBtn">Roll</button>
+      <button id="randBtn">Quick x10</button>
+    </div>
+    <p style="margin-top:12px;color:rgba(238,242,255,0.8)">Open this file in a browser to play. (README pages do not run JavaScript.)</p>
+  </div>
+
+  <script>
+    (function(){
+      const faces = ['⚀','⚁','⚂','⚃','⚄','⚅'];
+      const die = document.getElementById('die');
+      const rollBtn = document.getElementById('rollBtn');
+      const randBtn = document.getElementById('randBtn');
+
+      function randomFace(){ return faces[Math.floor(Math.random()*6)]; }
+
+      function roll(duration=700){
+        die.classList.remove('rolling'); void die.offsetWidth; die.classList.add('rolling');
+        const interval = 60;
+        const steps = Math.max(6, Math.floor(duration/interval));
+        let i=0;
+        const t = setInterval(()=>{
+          die.textContent = randomFace();
+          i++;
+          if(i>=steps){ clearInterval(t); die.classList.remove('rolling'); const f = randomFace(); die.textContent = f; die.setAttribute('aria-label','Die shows '+(faces.indexOf(f)+1)); }
+        }, interval);
+      }
+
+      rollBtn.addEventListener('click', ()=> roll(700));
+      randBtn.addEventListener('click', ()=>{
+        let i=0; const r = setInterval(()=>{ die.textContent = randomFace(); i++; if(i>=10) clearInterval(r); }, 90);
+      });
+
+      document.addEventListener('keydown', e => { if(e.code==='Space'){ e.preventDefault(); roll(700); } });
+    })();
+  </script>
+</body>
+</html>

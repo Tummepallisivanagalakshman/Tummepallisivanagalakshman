@@ -1,111 +1,53 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=900&color=1973E5&center=true&vCenter=true&width=560&lines=Hi+👋+I'm+Tummepalli+Sivanagalakshman;Computer+Science+Engineering+Student;Python+%26+Web+Developer;Building+Academic+and+Real-World+Projects" />
-</div>
-
-<h3 align="center">
-CSE undergraduate focused on Python, Web Development, and practical project work
-</h3>
+# Tummepalli Sivanagalakshman
+CSE Undergraduate · Python · Web · Backend · Mainframes
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tummepallisivanagalakshman&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Tummepallisivanagalakshman&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
+
+A practical, project-driven learner building web and Python projects with emphasis on real-world usefulness and clean code.
 
 ---
 
-## 👨‍🎓 About Me
-
-- 🎓 B.Tech in Computer Science Engineering (2022–2026)  
+## 👨‍🎓 About
+- B.Tech — Computer Science Engineering (2022–2026)  
   Veltech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology  
-- 💻 Interested in Python, Web Development, and backend fundamentals  
-- 🛠 Hands-on experience through academic and mini projects  
-- 📊 Comfortable with logic building and problem solving  
-- 📫 Email: **tummepallisivanagalakshman@gmail.com**
+- Interests: Python, Web Development, Backend fundamentals, IoT, Mainframes  
+- Email: tummepallisivanagalakshman@gmail.com
 
 ---
 
-## 🛠 Technical Skills
-
-### Programming & Web Technologies
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
-
-### Mainframes
-<p>
-  <img src="https://img.shields.io/badge/Mainframe-1F70C1?style=for-the-badge&logo=ibm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ISPF-000000?style=for-the-badge&logo=ibm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JCL-000000?style=for-the-badge&logo=ibm&logoColor=white"/>
-</p>
-
-### Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
-  <img src="https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white"/>
-  <img src="https://img.shields.io/badge/21Dev-4A90E2?style=for-the-badge"/>
-</p>
+## 🔧 Key Skills
+- Python · JavaScript · HTML · CSS  
+- Web development (frontend basics + simple backends)  
+- Mainframes: ISPF, JCL  
+- Tools: Git, GitHub, VS Code, Google Colab, UiPath
 
 ---
 
-## 📂 Projects
-
-### 🔹 IoT-Based Air Pollution Monitoring System
-- Sensor-based air quality data collection  
-- Analysis of pollution trends across time and locations  
-- Academic minor project  
-
-### 🔹 Image Encryption using Steganography
-- Python-based image data hiding  
-- Encryption and decryption logic  
-- GUI built using Tkinter  
-
-### 🔹 Quiz Application  
-🔗 https://github.com/Tummepallisivanagalakshman/Quize-app-  
-
-### 🔹 Digital Clock  
-🔗 https://github.com/Tummepallisivanagalakshman/DIGITAL-CLOCK  
-
-### 🔹 Rock Paper Game  
-🔗 https://github.com/Tummepallisivanagalakshman/rock-paper-game  
+## 📁 Selected Projects
+- IoT-Based Air Pollution Monitoring — sensor data collection & analysis  
+- Image Encryption (Steganography) — Python + Tkinter GUI  
+- [Quiz App](https://github.com/Tummepallisivanagalakshman/Quize-app-)  
+- [Digital Clock](https://github.com/Tummepallisivanagalakshman/DIGITAL-CLOCK)  
+- [Rock Paper Game](https://github.com/Tummepallisivanagalakshman/rock-paper-game)
 
 ---
 
-## 🎲 Mini Game: Dice Roll
+## 🎲 Mini Game — Dice Roll
+An interactive dice demo is included as `dice.html` in the repo. JavaScript is blocked inside GitHub README pages, so:
 
-
----
-
-## 🌐 Connect With Me
-
-<p>
-  <a href="https://github.com/Tummepallisivanagalakshman">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/tummepalli-sivanagalakshman-a3100224b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+- To run locally: open `dice.html` in your browser or use VS Code Live Server.  
+- To host online: enable GitHub Pages for this repository (branch `main`, folder `/`) and the page will be available at:
+  https://Tummepallisivanagalakshman.github.io/Tummepallisivanagalakshman/dice.html
 
 ---
 
-### 📌 Core Competencies
-- Python Programming  
-- Web Application Development  
-- JavaScript & DOM Manipulation  
-- Mainframes (ISPF, JCL)  
-- UiPath RPA Fundamentals  
-- IoT Concepts  
-- Data Handling & Analysis  
-- Git & Version Control  
-- Problem Solving  
+## 🌐 Connect
+- GitHub: [Tummepallisivanagalakshman](https://github.com/Tummepallisivanagalakshman)  
+- LinkedIn: [Tummepalli Sivanagalakshman](https://www.linkedin.com/in/tummepalli-sivanagalakshman-a3100224b/)  
+- Email: tummepallisivanagalakshman@gmail.com
 
 ---
 
-⭐️ _Maintained by **Tummepalli Sivanagalakshman**_  
-_Last updated: 2026_
+Maintained by Tummepalli Sivanagalakshman · Last updated: 2026-01-06
