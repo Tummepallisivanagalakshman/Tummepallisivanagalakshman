@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=80&lines=Hi+👋+I'm+Tummepalli+Sivanagalakshman;Full+Stack+Developer;RPA+%26+Automation+Enthusiast;Tech+Innovator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=80&lines=Hi+👋+I'm+Tummepalli+Sivanagalakshman;Full-Stack+Developer+%7C+RPA+Specialist;Passionate+Problem+Solver" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -27,6 +27,13 @@
    • Modern TypeScript frameworks
    • Advanced Python automation
    • Cloud-based solutions
+   • Enterprise automation workflows
+
+📊 Portfolio Stats:
+   • 30+ GitHub repositories
+   • 11+ UiPath RPA workflows
+   • Full-stack projects in TypeScript & Python
+   • Expertise in data science & machine learning
 
 📧 Get in touch: tummepallisivanagalakshman@gmail.com
 ```
@@ -90,6 +97,7 @@
 | **meal-qr-code** | QR Code Generation for Meal Services | [View](https://github.com/Tummepallisivanagalakshman/meal-qr-code) |
 | **stegnography-imageencryption** | Advanced Image Encryption & Steganography | [View](https://github.com/Tummepallisivanagalakshman/stegnography-imageencryption) |
 | **rock-paper-game** | Interactive Game Logic | [View](https://github.com/Tummepallisivanagalakshman/rock-paper-game) |
+| **crop_predection** | Machine Learning Crop Prediction Model | [View](https://github.com/Tummepallisivanagalakshman/crop_predection) |
 | **google-adk-ai-agent-starer** | AI Agent Framework | [View](https://github.com/Tummepallisivanagalakshman/google-adk-ai-agent-starer) |
 
 ### 🤖 UiPath Automation Projects (11+)
@@ -98,6 +106,14 @@ Advanced RPA workflows including:
 - **Control Flow Patterns** - Decision logic, loops, and complex structures
 - **Loop Operations** - For-Each, Do-While, and nested iterations
 - **Variables & Scope Management** - Professional automation practices
+- **Order Amount Workflow** - Business process automation
+
+**Notable Projects:**
+- UiPath-Basics-Do-While-Loop-Example
+- UiPath-Core-Activities-Demo
+- UiPath-Excel-Automation-Essentials
+- UiPath-Control-Flow-Break-and-Continue
+- UiPath_OrderAmount_DecisionWorkflow
 
 [View All UiPath Projects →](https://github.com/Tummepallisivanagalakshman?tab=repositories&q=UiPath)
 
@@ -117,7 +133,19 @@ Advanced RPA workflows including:
 ✨ Web Application Design        ✨ Data Analysis & Visualization
 ✨ UiPath Automation             ✨ IBM Mainframe Systems (ISPF/JCL)
 ✨ Problem Solving               ✨ Version Control (Git/GitHub)
+✨ QR Code Solutions             ✨ Image Encryption & Steganography
 ```
+
+---
+
+## 📊 Repository Breakdown
+
+- **Frontend Projects:** 4+ (HTML, CSS, JavaScript)
+- **Full-Stack Apps:** 3+ (TypeScript-based)
+- **Python Projects:** 5+ (Data Science, ML, Automation)
+- **RPA Workflows:** 11+ (UiPath, Automation, Control Flow)
+- **Data Science:** 2+ (ML, Data Analysis)
+- **Practice/Learning:** 10+ (Fundamentals, Concepts)
 
 ---
 
@@ -128,6 +156,7 @@ Advanced RPA workflows including:
 > 💻 Creating intuitive user interfaces  
 > 📊 Analyzing data and deriving meaningful insights  
 > 🔐 Implementing secure authentication & encryption  
+> 🧠 Exploring AI/ML applications  
 
 ---
 
@@ -138,6 +167,7 @@ Advanced RPA workflows including:
 - **Full-Stack Capabilities** - From TypeScript frontends to Python backends
 - **Enterprise Skills** - IBM Mainframe, ISPF, JCL experience
 - **Problem Solver** - Strong foundation in algorithms and data structures
+- **Diverse Tech Stack** - Proficient in multiple languages and frameworks
 
 ---
 
@@ -168,11 +198,11 @@ I'm always interested in hearing about interesting projects and opportunities. W
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=14&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=400&lines=Open+to+Collaborations;Always+Learning;Building+Tomorrow+Today" alt="Status" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=14&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=400&lines=Open+to+Collaborations;Always+Learning;Building+Innovative+Solutions" alt="Footer typing" />
 </div>
 
 <div align="center">
   <sub>⭐️ If you find my work interesting, consider giving it a star!</sub>
   <br/>
-  <sub>Last updated: April 2026</sub>
+  <sub>Last updated: May 2026</sub>
 </div>
